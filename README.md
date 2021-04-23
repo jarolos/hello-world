@@ -1,2 +1,2 @@
 # hello-world
-Test project - test porcedures editor.
+Test project - test procedures editor.
